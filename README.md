@@ -56,13 +56,3 @@ This project aims to promote **sustainable fashion**, eco-friendly shopping, and
 - **Kubernetes**: Deploy the app using **Kubernetes** for scalability and efficient management.
 
 ---
-
-## Setting Up the Frontend (Next.js)
-
-1. **Install Next.js**:
-
-   First, create a new Next.js app:
-
-   ```bash
-   npx create-next-app@latest jotex-frontend
-   cd jotex-frontend
