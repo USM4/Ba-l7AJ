@@ -11,8 +11,15 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        beige: '#F5E2B1',
+        warmBrown: '#6F4F2E',
+        burntOrange: '#D97C2E',
+        darkBrown: '#3E2A47',
+        goldenYellow: '#F1C232',
+        black: '#2A2A2A',
       },
     },
-  },
-  plugins: [],
+    plugins: [],
+  }
 } satisfies Config;
+
